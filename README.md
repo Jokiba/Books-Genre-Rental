@@ -33,6 +33,6 @@ This Python code project is interactive, because when you run it, program will a
 In this way, I have achieved a universal piece of code that will also work on other book files which has the same structure.
 
 ## Result files folder
-This is folder with excel files which is result of project.
-Every file represent books which belongs to the same genre and is currently rental.
+This is folder with excel files which is result of project.  
+Every file represent books which belongs to the same genre and is currently rental.  
 Books also have new columns with funny reverse year of published.
