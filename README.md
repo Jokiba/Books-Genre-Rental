@@ -27,4 +27,5 @@ Function is:
 - sort data (sorting books by published year in ascending order)
 - new column (create new column in data, new column 'contra_published' represent published year in upside-down world, this is a little joke)
 - create new files (create new excel file as a result of previous data process)
+
 All function and his additional parameters (if there is) are implemented in ETL pipeline method.
