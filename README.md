@@ -28,7 +28,7 @@ Function is:
 - new column (create new column in data, new column 'contra_published' represent published year in upside-down world, this is a little joke)
 - create new files (create new excel file as a result of previous data process)
 
-All function and his additional parameters (if there is) are implemented in ETL pipeline method.
+All function and his additional parameters (if there is) are implemented in ETL pipeline method.  
 This Python code project is interactive, because when you run it, program will ask user to input desired genre.  
 In this way, I have achieved a universal piece of code that will also work on other book files which has the same structure.
 
